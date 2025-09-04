@@ -1,0 +1,169 @@
+{
+  "HomePage": {
+    "title": "Formula 1",
+    "about": "The official Formula 1 website with the latest news, results, standings, videos, and more.",
+    "welcome": "Welcome, {name}!",
+    "pleaseLogin": "Please sign in to continue."
+  },
+  "metadata": {
+    "title": {
+      "template": "%s | F1 Community",
+      "default": "F1 Community"
+    },
+    "description": "F1 Community is the premier single-seater racing series sanctioned by the FIA (Fédération Internationale de l'Automobile). Each season features the fastest and most technologically advanced cars competing on circuits around the world."
+  },
+  "header": {
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "news": "News",
+    "beginnerGuide": "Beginner Guide",
+    "schedule": "Schedule",
+    "results": "Results",
+    "drivers": "Drivers",
+    "teams": "Teams",
+    "signIn": "Sign in",
+    "myPage": "My Page",
+    "logout": "Log out"
+  },
+  "signIn": {
+    "title": "Sign in to your account",
+    "notMember": "Not a member?",
+    "signUpNow": "Sign up now!",
+    "email": "Email address",
+    "password": "Password",
+    "remember": "Remember me",
+    "forgot": "Forgot password?",
+    "submit": "Sign in",
+    "divider": "Or continue with",
+    "google": "Google",
+    "kakao": "Kakao",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "resetHint": {
+      "text": "Forgot your password?",
+      "link": "Reset your password"
+    },
+    "adminTokenRequired": "Admin must provide a token.",
+    "warnTitle": "Notice",
+    "bgAlt": "Background image for Sign In",
+    "loginErrors": {
+      "INCORRECT_PASSWORD": "The password is incorrect.",
+      "INVALID_PASSWORD": "The password is invalid.",
+      "USER_NOT_FOUND": "User does not exist.",
+      "EMAIL_ALREADY_EXISTS": "This email is already registered.",
+      "FILE_SIZE_EXCEEDED": "File size exceeded. Maximum allowed is 10MB.",
+      "genericError": "Login failed. There may be a problem connecting to the server.",
+      "customError": "Error: {message}"
+    },
+    "keyboardWarnings": {
+      "capsLockOn": "Caps Lock is on.",
+      "checkCase": "Please check uppercase and lowercase when entering your password.",
+      "numLockOn": "Num Lock is on.",
+      "numPadActive": "Numeric keypad input is enabled."
+    }
+  },
+  "signUp": {
+    "username": "Username",
+    "profileImage": "Upload Profile Picture",
+    "chooseFile": "Choose File",
+    "noFile": "No file selected",
+    "title": "Sign up to your account",
+    "already": "Already have an account?",
+    "signIn": "Sign in now!",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "dob": "Date of birth",
+    "country": "Country of residence",
+    "countryOptions": {
+      "select": "Select",
+      "kor": "Korea",
+      "usa": "United States"
+    },
+    "email": "Email address",
+    "emailExists": "Email already exists.",
+    "usernameExists": "Username already exists.",
+    "password": "Password",
+    "passwordHint": "Password must contain: <b>Uppercase</b>, <b>Lowercase</b>, <b>Number</b>, <b>12-30 characters</b>, <b>!, @, #, %, ^, &, +, =, -</b>",
+    "confirmPassword": "Confirm password",
+    "submit": "Register",
+    "success": "Registration successful!",
+    "error": "An unexpected error occurred. Please try again.",
+    "passwordMismatch": "Passwords do not match.",
+    "signupSuccessTitle": "Registration Successful",
+    "signupSuccessDesc": "Your account has been created. You will now be redirected to the sign-in page.",
+    "warnTitle": "Notice",
+    "signupErrors": {
+      "INVALID_PASSWORD": "The password format is invalid.",
+      "EMAIL_ALREADY_EXISTS": "This email is already registered.",
+      "USERNAME_ALREADY_EXISTS": "This username is already taken.",
+      "genericError": "Sign up failed. There may be a problem connecting to the server.",
+      "customError": "Error: {message}"
+    }
+  },
+  "forgot": {
+    "title": "Forgot your password?",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@example.com",
+    "emailHelp": "We'll send a reset link to this address.",
+    "errorRequired": "Please enter your email.",
+    "errorInvalid": "Please enter a valid email.",
+    "serverError": "Something went wrong. Please try again.",
+    "networkError": "Network error. Please try again.",
+    "submitButton": "Send reset link",
+    "submitting": "Sending...",
+    "close": "Close",
+    "cancel": "Cancel"
+  },
+  "reset": {
+    "pageTitle": "Reset Password",
+    "invalidAccess": "Invalid access.",
+    "newPassword": "New password",
+    "newPasswordPlaceholder": "Enter your new password",
+    "confirmPassword": "Confirm password",
+    "confirmPasswordPlaceholder": "Re-enter your new password",
+    "errorRequired": "Please enter your new password.",
+    "errorPasswordMismatch": "Passwords do not match.",
+    "serverError": "Server error. Please try again.",
+    "networkError": "Network error. Please check your connection.",
+    "success": "Your password has been reset.",
+    "submitting": "Submitting...",
+    "submitButton": "Reset Password",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "showConfirmPassword": "Show confirm password",
+    "hideConfirmPassword": "Hide confirm password"
+  },
+  "passwordRules": {
+    "length": "Must be 12–30 characters",
+    "uppercase": "Must include an uppercase letter",
+    "lowercase": "Must include a lowercase letter",
+    "number": "Must include a number",
+    "special": "Must include a special character"
+  },
+  "userMenu": {
+    "myPage": {
+      "name": "My Page",
+      "description": "View account information"
+    },
+    "logout": "Log out"
+  },
+  "footer": {
+    "company": "Formula 1.",
+    "allRightsReserved": "All rights reserved."
+  },
+  "languages": {
+    "title": "Languages",
+    "labels": {
+      "en": "English",
+      "ko": "한국어"
+    }
+  },
+  "resetPasswordPage": {
+    "invalidAccess": "Invalid access.",
+    "title": "Reset Password"
+  },
+  "warning": {
+    "defaultTitle": "Notice",
+    "confirm": "OK"
+  }
+}
